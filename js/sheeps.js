@@ -16,3 +16,5 @@ function countSheeps(list) {
 
 console.log(countSheeps(herd1))
 console.log(countSheeps(herd2))
+
+
